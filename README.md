@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Priya-singh016/leetcode-problem/tree/master/0594-longest-harmonious-subsequence) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Priya-singh016/leetcode-problem/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Priya-singh016/leetcode-problem/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Two Pointers
@@ -32,4 +33,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3618-find-the-original-typed-string-ii](https://github.com/Priya-singh016/leetcode-problem/tree/master/3618-find-the-original-typed-string-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Priya-singh016/leetcode-problem/tree/master/0594-longest-harmonious-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Priya-singh016/leetcode-problem/tree/master/0594-longest-harmonious-subsequence) |
+## Sorting
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Priya-singh016/leetcode-problem/tree/master/0594-longest-harmonious-subsequence) |
+## Counting
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Priya-singh016/leetcode-problem/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
