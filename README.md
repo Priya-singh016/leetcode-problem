@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Priya-singh016/leetcode-problem/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Priya-singh016/leetcode-problem/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3617-find-the-original-typed-string-i](https://github.com/Priya-singh016/leetcode-problem/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Priya-singh016/leetcode-problem/tree/master/3618-find-the-original-typed-string-ii) |
 ## Simulation
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Priya-singh016/leetcode-problem/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Priya-singh016/leetcode-problem/tree/master/3618-find-the-original-typed-string-ii) |
 ## Prefix Sum
 |  |
@@ -53,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Priya-singh016/leetcode-problem/tree/master/0594-longest-harmonious-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Priya-singh016/leetcode-problem/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+## Memoization
+|  |
+| ------- |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Priya-singh016/leetcode-problem/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 <!---LeetCode Topics End-->
