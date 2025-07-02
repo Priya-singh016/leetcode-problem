@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Priya-singh016/leetcode-problem/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Priya-singh016/leetcode-problem/tree/master/3618-find-the-original-typed-string-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -22,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Priya-singh016/leetcode-problem/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3618-find-the-original-typed-string-ii](https://github.com/Priya-singh016/leetcode-problem/tree/master/3618-find-the-original-typed-string-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3618-find-the-original-typed-string-ii](https://github.com/Priya-singh016/leetcode-problem/tree/master/3618-find-the-original-typed-string-ii) |
 <!---LeetCode Topics End-->
