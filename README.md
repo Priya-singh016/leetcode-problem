@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Priya-singh016/leetcode-problem/tree/master/0001-two-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Priya-singh016/leetcode-problem/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Priya-singh016/leetcode-problem/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Priya-singh016/leetcode-problem/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Priya-singh016/leetcode-problem/tree/master/0001-two-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Priya-singh016/leetcode-problem/tree/master/0594-longest-harmonious-subsequence) |
 ## Sliding Window
 |  |
