@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Priya-singh016/leetcode-problem/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Priya-singh016/leetcode-problem/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Priya-singh016/leetcode-problem/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/Priya-singh016/leetcode-problem/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Priya-singh016/leetcode-problem/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Priya-singh016/leetcode-problem/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Two Pointers
